@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <topichead navtitle="Log water intake">
+        <topicref href="How%20to%20log%20your%20water%20intake.dita"/>
+    </topichead>
+    <topichead navtitle="Set daily goal">
+        <topicref href="How%20to%20set%20a%20daily%20goal.dita"/>
+    </topichead>
+    <topichead navtitle="Application Badge Notifications">
+        <topicref href="How%20to%20enable%20application%20badges.dita"/>
+    </topichead>
+</map>

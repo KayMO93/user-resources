@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kxj_nc3_dtb">
+    <title>How to set  daily goal in Waterlogged</title>
+    <shortdesc>Here's how you set a daily goal in Waterlogged.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Tap the 'Settings' icon in the top-left corner.</cmd>
+            </step>
+            <step>
+                <cmd>Tap 'Daily Goal.'</cmd>
+            </step>
+            <step>
+                <cmd>Type in your desired amount of water and the proper unit (oz, mL, or L).</cmd>
+            </step>
+            <step>
+                <cmd>Tap 'Save' to be automatically returned to the 'Settings' tab.</cmd>
+            </step>
+        </steps>
+        <result id="result_g2r_gr3_dtb">Your daily goal is now set.</result>
+        <example id="example_flz_jr3_dtb"><image href="IMG_5616.PNG" scale="25"
+                id="image_kfy_mr3_dtb"/><image href="IMG_5612.PNG" scale="25" id="image_pxg_qr3_dtb"
+            /></example>
+    </taskbody>
+</task>
