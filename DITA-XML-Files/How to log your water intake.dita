@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_emk_fk5_ctb">
+    <title>How to log your water intake in Waterlogged</title>
+    <shortdesc>Here's how you log your water intake in Waterlogged.</shortdesc>
+    <taskbody>
+        <context>Log your water intake.<p/></context>
+        <steps>
+            <step>
+                <cmd>Open the Waterlogged app. On the home screen, ensure that the date you are
+                    logging is selected at the top. When your date is selected, tap the plus sign at
+                    the center of the container.</cmd>
+            </step>
+            <step>
+                <cmd>Select the type of container you're drinking from with the amount of liquid
+                    you're drinking. (If your choice of container is not displayed, tap 'More
+                    choices', scroll left, and tap 'add new container.' Select 'change' to add a new
+                    photo of your container. Rename it and adjust the amount of liquid in the
+                    container in either oz, mL, or L. Containers can also be added by going to
+                    'Settings' and 'Containers.') </cmd>
+            </step>
+            <step>
+                <cmd>Tap the arrow in the top left corner to go back to the 'More choices' screen.
+                    On this same screen, you can also select the type of liquid in your
+                    container.</cmd>
+            </step>
+            <step>
+                <cmd>After imputing your information, save your selections to be automatically
+                    returned to the home screen.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat these steps to add more liquid intake to your log for the day. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
